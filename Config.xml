@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProgramParameters>
+  <Parameters>
+    <DbServerName>192.168.12.10</DbServerName>
+    <DbUserName>sa</DbUserName>
+    <DbUserPassword>Arn2014.,</DbUserPassword>
+    <DbName>LOGOCRM</DbName>
+    <MailServer></MailServer>
+    <MailUser>destek@arunayazilim.com</MailUser>
+    <MailPassword>des.tek@2022 </MailPassword>
+  </Parameters>
+</ProgramParameters>
